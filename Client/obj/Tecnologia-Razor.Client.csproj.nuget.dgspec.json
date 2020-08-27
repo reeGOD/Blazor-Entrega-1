@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\GitHub\\Tecnologia-Razor\\client\\Tecnologia-Razor.Client.csproj": {}
+  },
+  "projects": {
+    "H:\\GitHub\\Tecnologia-Razor\\client\\Tecnologia-Razor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GitHub\\Tecnologia-Razor\\client\\Tecnologia-Razor.Client.csproj",
+        "projectName": "Tecnologia-Razor.Client",
+        "projectPath": "H:\\GitHub\\Tecnologia-Razor\\client\\Tecnologia-Razor.Client.csproj",
+        "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
+        "outputPath": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "H:\\GitHub\\Tecnologia-Razor\\Shared\\Tecnologia-Razor.Shared.csproj": {
+                "projectPath": "H:\\GitHub\\Tecnologia-Razor\\Shared\\Tecnologia-Razor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[0.9.1.2, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\GitHub\\Tecnologia-Razor\\Shared\\Tecnologia-Razor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GitHub\\Tecnologia-Razor\\Shared\\Tecnologia-Razor.Shared.csproj",
+        "projectName": "Tecnologia-Razor.Shared",
+        "projectPath": "H:\\GitHub\\Tecnologia-Razor\\Shared\\Tecnologia-Razor.Shared.csproj",
+        "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
+        "outputPath": "H:\\GitHub\\Tecnologia-Razor\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

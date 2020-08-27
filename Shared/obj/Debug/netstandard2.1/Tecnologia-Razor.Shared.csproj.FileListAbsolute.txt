@@ -1,0 +1,9 @@
+H:\GitHub\Tecnologia-Razor\Shared\bin\Debug\netstandard2.1\Tecnologia-Razor.Shared.deps.json
+H:\GitHub\Tecnologia-Razor\Shared\bin\Debug\netstandard2.1\Tecnologia-Razor.Shared.dll
+H:\GitHub\Tecnologia-Razor\Shared\bin\Debug\netstandard2.1\Tecnologia-Razor.Shared.pdb
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.csprojAssemblyReference.cache
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.AssemblyInfoInputs.cache
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.AssemblyInfo.cs
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.csproj.CoreCompileInputs.cache
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.dll
+H:\GitHub\Tecnologia-Razor\Shared\obj\Debug\netstandard2.1\Tecnologia-Razor.Shared.pdb
