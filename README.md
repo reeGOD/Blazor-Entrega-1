@@ -1,2 +1,2 @@
-# Tecnologia-Razor
- Aprendendo a usar a tecnologia razor
+# Tecnologia-Blazor
+ Aprendendo a usar a tecnologia Blazor
