@@ -3,5 +3,5 @@
 
 
 Inetrantes: 
-Gabriel Rego Oliveira
+Gabriel Rego Oliveira,
 Gustavo Tudela
