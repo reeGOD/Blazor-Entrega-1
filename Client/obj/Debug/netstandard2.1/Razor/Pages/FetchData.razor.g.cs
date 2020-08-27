@@ -73,6 +73,13 @@ using Tecnologia_Razor.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "H:\GitHub\Tecnologia-Razor\client\_Imports.razor"
+using Blazorise;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "H:\GitHub\Tecnologia-Razor\client\Pages\FetchData.razor"
 using Tecnologia_Razor.Shared;
 

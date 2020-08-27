@@ -72,6 +72,13 @@ using Tecnologia_Razor.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "H:\GitHub\Tecnologia-Razor\client\_Imports.razor"
+using Blazorise;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

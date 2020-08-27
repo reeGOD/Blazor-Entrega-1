@@ -2978,6 +2978,39 @@
         }
       },
       {
+        "HashCode": -1031671243,
+        "Kind": "Components.Component",
+        "Name": "Tecnologia_Razor.Client.Pages.Afazeres",
+        "AssemblyName": "Tecnologia-Razor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Afazeres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Tecnologia_Razor.Client.Pages.Afazeres"
+        }
+      },
+      {
+        "HashCode": 2056620348,
+        "Kind": "Components.Component",
+        "Name": "Tecnologia_Razor.Client.Pages.Afazeres",
+        "AssemblyName": "Tecnologia-Razor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Tecnologia_Razor.Client.Pages.Afazeres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Tecnologia_Razor.Client.Pages.Afazeres",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1481760209,
         "Kind": "Components.Component",
         "Name": "Tecnologia_Razor.Client.Shared.MainLayout",

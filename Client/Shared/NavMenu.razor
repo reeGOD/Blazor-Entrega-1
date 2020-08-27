@@ -1,4 +1,33 @@
-﻿<div class="top-row pl-4 navbar navbar-dark">
+﻿<Bar
+  Mode="BarMode.VerticalInline"
+  CollapseMode="BarCollapseMode.Small"
+  Breakpoint="Breakpoint.Desktop"
+  NavigationBreakpoint="Breakpoint.Tablet"
+  ThemeContrast="ThemeContrast.Dark"
+>
+  <BarBrand>
+    <BarItem>
+      <BarLink To="">
+        <BarIcon IconName="IconName.Laptop" />
+        Tecnologia Razor
+      </BarLink>
+    </BarItem>
+  </BarBrand>
+  <BarMenu>
+    <BarStart>
+      <BarItem>
+        <BarLink To="Afazeres">
+          <BarIcon IconName="IconName.Home" />
+          A Fazeres
+        </BarLink>
+      </BarItem>
+    </BarStart>
+  </BarMenu>
+</Bar>
+
+
+@* Antigo layout---
+<div class="top-row pl-4 navbar navbar-dark">
     <a class="navbar-brand" href="">Tecnologia-Razor</a>
     <button class="navbar-toggler" @onclick="ToggleNavMenu">
         <span class="navbar-toggler-icon"></span>
@@ -35,3 +64,4 @@
         collapseNavMenu = !collapseNavMenu;
     }
 }
+*@

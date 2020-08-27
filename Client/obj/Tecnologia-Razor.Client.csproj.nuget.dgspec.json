@@ -46,7 +46,7 @@
             },
             "Blazorise.Icons.FontAwesome": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[0.9.1.2, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",

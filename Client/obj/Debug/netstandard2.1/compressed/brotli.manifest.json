@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zwXEC7VM233ZlXmZZgnEBZkIi6W06ICVir0UlRejzKY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vrMkRQshF59yhNMvy3Dwoa-g2hTJHzpz-vYy3oKuoic=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tecnologia-Razor.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tecnologia-Razor.Client.dll.br"
     },
@@ -156,29 +156,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RcGmVD6GepoLNUlt0DdL7ME67TycUDtJcWzHJwBUtIA=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazorise.Icons.FontAwesome.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Icons.FontAwesome.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
@@ -191,7 +171,47 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IA5XciSNt6osvVS6r0dpa2tbQXRajE0-SnwuhBiw5KA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hbUQCCeR7kLtkXTi7cA3LzwJA0OgAL-_vZwKdJYa17Y=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazorise.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\okC5XVUVhglJYarRu8Qkia35ZRSTrER64Vz2gR3_yCA=.hash",
+      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazorise.Bootstrap.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Bootstrap.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LlPwPHAWMU624R-h-qutSnQgcpmW41O9Fqx-lGo4tHo=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tecnologia-Razor.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tecnologia-Razor.Shared.dll.br"
     },
@@ -256,22 +276,17 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
-      "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tP6T0tEQsenohrh3Fsojuhun2oV0jrXtK6fUwy39TU4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KFMC9QNSRXrrefLKDpC-rt-KHxvTa32sch2Hup1423A=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tecnologia-Razor.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tecnologia-Razor.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cLbTyxjn_QStoB2Taz_ud18wj7WHxk4-Dt-HMqe4Cus=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\s1m8CzqBQnynFghEkp-cpcIqnbp04a1WNn1uFIMI3ok=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tecnologia-Razor.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tecnologia-Razor.Shared.pdb.br"
     },
@@ -296,12 +311,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9R-acb9Y_PBoHmEFur0fN8HynDjhR1bF7HD3xIwh9jA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bPZhu6MbCqSOMDa8NRYah3U5pgwmWiOGoTkWeUpLARA=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u5Woqg1JpuAKylx4BZM0IHeLswtVyrFIN0hfpPfdWwY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KeACdupgQGOOJSRY2PXQ1V3L4ujkTU68ng7IwcTO_9Q=.hash",
       "Source": "H:\\GitHub\\Tecnologia-Razor\\client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

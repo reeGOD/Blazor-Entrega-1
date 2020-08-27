@@ -1,0 +1,44 @@
+@page "/Afazeres"
+@using BlazorAppProject.Shared
+<center>
+<h3> Lista de afazeres </h3>
+</center>
+<Container>
+<Addons>
+    <Addon AddonType="AddonType.Body">
+        <TextEdit Placeholder="Digite o item a ser feito" @bind-Text="newTodo" />
+    </Addon>
+    <Addon AddonType="AddonType.End">
+        <Button Color="Color.Secondary" @onclick="AddTask">Add</Button>
+    </Addon>
+</Addons>
+<Column ColumnSize="ColumnSize.Is4">
+<Table>
+    <TableHeader ThemeContrast="ThemeContrast.Dark"></TableHeader>
+    <TableBody>
+            @foreach (var item in listaTodo)
+            {
+                <TableRow>
+                        <TableRowCell>@item.Item</TableRowCell>
+                    <Alert Color="Color.Secondary" Visible="true">
+                        <Check TValue="bool" @bind-Checked="@item.Done">
+                            @(item.Done ? "Feito" : "Não Feito")
+                        </Check>
+                    </Alert>
+                </TableRow>
+            }
+    </TableBody>
+</Table>
+</Column>
+</Container>
+
+@code{
+    List<Lista> listaTodo;
+    public string newTodo { get; set; }
+    private void AddTask(){
+        listaTodo.Add(new Lista { Item = newTodo });
+    }
+    protected override void OnInitialized(){
+        listaTodo = new List<Lista>(){};
+    }
+}
