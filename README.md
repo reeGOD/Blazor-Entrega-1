@@ -1,4 +1,4 @@
-# Listta de afazerex
+# Lista de afazeres
 
 Inetrantes: 
 Gabriel Rego Oliveira,
